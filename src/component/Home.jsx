@@ -5,7 +5,7 @@ const Home = () => {
     return (
         <div className='hero'>
             <div className="card text-white bg-dark border-0">
-                <img src="/bg1.jpg" className="card-img" alt="Background"
+                <img src="../bg1.jpg" className="card-img" alt="Background"
                     height="550px"/>
                 <div className="card-img-overlay d-flex flex-column justify-content-center">
                     <div className='container'>
